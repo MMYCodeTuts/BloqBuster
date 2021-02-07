@@ -1,4 +1,4 @@
-package com.mmycodetuts.bloqBuster
+package com.mmycodetuts.BloqBuster
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
