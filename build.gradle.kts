@@ -33,7 +33,11 @@ dependencies {
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 
+	implementation("org.springdoc:springdoc-openapi-ui:1.5.2")
+
+
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
+
 	val restAssuredVersion = "4.2.0"
 	testImplementation("io.rest-assured:rest-assured:$restAssuredVersion")
 	testImplementation("io.rest-assured:json-path:$restAssuredVersion")
