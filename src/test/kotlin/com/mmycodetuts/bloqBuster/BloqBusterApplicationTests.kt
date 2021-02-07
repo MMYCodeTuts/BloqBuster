@@ -1,4 +1,4 @@
-package com.mmycodetuts.BloqBuster
+package com.mmycodetuts.bloqBuster
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
